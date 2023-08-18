@@ -1,0 +1,15 @@
+
+h1
+{
+	color: rgb(0, 50, 97); 
+	font-size: 40px;
+}
+.body_backgorund {
+background-image:url("bg1.jpg");
+background-position: center;
+background-size: cover;
+}
+
+#Lienzo{
+background-color: white;
+}
